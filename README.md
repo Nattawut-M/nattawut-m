@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 
 <div style="display:flex; flex-flow: row wrap; gap: 10px" >
 
-<div >
+<!-- <div >
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nattawut-m&layout=compact&langs_count=10)](https://github.com/nattawut-m/github-readme-stats)
 
-</div>
+</div> -->
 
 <div>
 <h3 align="left">Languages and Tools:</h3>
