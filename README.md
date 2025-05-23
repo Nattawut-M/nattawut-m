@@ -55,7 +55,7 @@ I am graduated from Computer Science @RMUTT, Who is interested in Programming an
 <h2>Tools</h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,idea,vscode,bash" />
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,docker,idea,vscode,bash" />
   </a>
 </p>
 
