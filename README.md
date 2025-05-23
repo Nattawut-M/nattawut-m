@@ -44,8 +44,10 @@ I am graduated from Computer Science @RMUTT, Who is interested in Programming an
 
 <h2>Databases</h2>
 <p align="left">
+    <a href="https://neo4j.com">
+        <img style="background:whitesmoke; padding: 4px; border-radius: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-original.svg" alt="neo4j" width="40" height="40"/>
+    </a>
   <a href="https://skillicons.dev">
-     <img style="background:whitesmoke; padding: 4px; border-radius: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-original.svg" alt="neo4j" width="40" height="40"/>
     <img src="https://skillicons.dev/icons?i=postgres,mongo,mysql,hibernate&perline=6" />
   </a>
 </p>
