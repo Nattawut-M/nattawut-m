@@ -48,14 +48,14 @@ I am graduated from Computer Science @RMUTT, Who is interested in Programming an
         <img style="background:whitesmoke; padding: 4px; border-radius: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-original.svg" alt="neo4j" width="40" height="40"/>
     </a>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mongo,mysql,hibernate&perline=6" />
+    <img src="https://skillicons.dev/icons?i=postgres,mongo,redis,mysql,hibernate&perline=6" />
   </a>
 </p>
 
 <h2>Tools</h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,docker,idea,vscode,bash" />
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,docker,idea,vscode,bash,postman" />
   </a>
 </p>
 
