@@ -29,7 +29,7 @@ I am graduated from Computer Science @RMUTT, Who is interested in Programming an
 <h2>Languages</h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=golang,js,ts,css,html,nodejs,python,java,graphql&perline=" />
+    <img src="https://skillicons.dev/icons?i=golang,js,ts,css,html,nodejs,python,java,graphql&perline=&theme=light" />
     </a>
 </p>
 
@@ -38,7 +38,7 @@ I am graduated from Computer Science @RMUTT, Who is interested in Programming an
   <a href="https://skillicons.dev">
      <img style="background:whitesmoke; padding: 4px; border-radius: 10px;" src="https://gofiber.io/assets/images/logo.svg" alt="express" width="40" height="40"/>
     <!-- <img style="background: white; padding: 4px; border-radius: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> -->
-    <img src="https://skillicons.dev/icons?i=express,pug,react,redux,django,spring,tailwind" />
+    <img src="https://skillicons.dev/icons?i=express,pug,react,redux,django,spring,tailwind?theme=light" />
   </a>
 </p>
 
@@ -48,14 +48,14 @@ I am graduated from Computer Science @RMUTT, Who is interested in Programming an
         <img style="background:whitesmoke; padding: 4px; border-radius: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-original.svg" alt="neo4j" width="40" height="40"/>
     </a>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mongo,redis,mysql,hibernate&perline=6" />
+    <img src="https://skillicons.dev/icons?i=mongo,postgres,redis,mysql,hibernate&perline=6&theme=light" />
   </a>
 </p>
 
 <h2>Tools</h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,docker,idea,vscode,bash,postman" />
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,docker,idea,vscode,bash,postman?theme=light" />
   </a>
 </p>
 
