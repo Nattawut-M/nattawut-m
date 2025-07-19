@@ -1,4 +1,4 @@
-### Hi there, I'm Nattawut Meesamsen 👋
+### 🔥🔥 Hi there, I'm Nattawut Meesamsen 🔥🔥
 
 <!--
 **Nattawut-M/nattawut-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 I am graduated from Computer Science @RMUTT, Who is interested in Programming and Technology. I have experienced and basic knowledge of framework react, angular and spring boot and still learning.
 </p>
 
-- 🔭 I’m currently working on `<null>`
-- 🌱 I’m currently interesting in Golang, Java, Kotlin, Spring Boot Stack
+- 💼 I’m currently working on `<null>` 
+- 🌱 I’m currently interested in React.js, Golang, Java, Kotlin, and Spring Boot Stack
 <!-- - 📫 How to reach me: t.nattawut2020@hotmail.com -->
 
 
