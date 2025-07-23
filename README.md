@@ -22,7 +22,7 @@ I am graduated from Computer Science @RMUTT, Who is interested in Programming an
 </p>
 
 - 💼 I’m currently working on `<null>` 
-- 🌱 I’m currently interested in React.js, Golang, Java, Kotlin, and Spring Boot Stack
+- 🌱 I’m currently interested in React.js, Golang, Java, Kotlin, and Spring Framework
 <!-- - 📫 How to reach me: t.nattawut2020@hotmail.com -->
 
 <h2>My Experiences</h2>
