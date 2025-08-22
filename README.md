@@ -29,7 +29,7 @@ I am graduated from Computer Science @RMUTT, Who is interested in Programming an
 <h3>Languages</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=golang,js,ts,css,html,nodejs,python,java,graphql&perline=&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=golang,js,ts,css,html,nodejs,python,java,graphql,md&perline=&theme=dark" />
     </a>
 </p>
 
