@@ -29,7 +29,7 @@ I am graduated from Computer Science @RMUTT, Who is interested in Programming an
 <h3>Languages</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=golang,js,ts,css,html,nodejs,python,java,graphql&perline=&theme=light" />
+    <img src="https://skillicons.dev/icons?i=golang,js,ts,css,html,nodejs,python,java,graphql&perline=&theme=dark" />
     </a>
 </p>
 
@@ -38,7 +38,7 @@ I am graduated from Computer Science @RMUTT, Who is interested in Programming an
   <a href="https://skillicons.dev">
 <!--      <img style="background:whitesmoke; padding: 4px; border-radius: 10px;" src="https://gofiber.io/assets/images/logo.svg" alt="express" width="40" height="40"/> -->
     <!-- <img style="background: white; padding: 4px; border-radius: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> -->
-    <img src="https://skillicons.dev/icons?i=express,pug,react,redux,django,spring,tailwind,materialui,styledcomponents,sequelize,apollo,?theme=light" />
+    <img src="https://skillicons.dev/icons?i=express,pug,react,redux,django,spring,tailwind,materialui,styledcomponents,sequelize,apollo,?theme=dark" />
   </a>
 </p>
 
@@ -48,21 +48,21 @@ I am graduated from Computer Science @RMUTT, Who is interested in Programming an
         <img style="background:whitesmoke; padding: 4px; border-radius: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-original.svg" alt="neo4j" width="40" height="40"/>
     </a>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongo,postgres,redis,mysql,hibernate&perline=6&theme=light" />
+    <img src="https://skillicons.dev/icons?i=mongo,postgres,redis,mysql,hibernate&perline=6&theme=dark" />
   </a>
 </p>
 
 <h3>Tools</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,jenkins,rabbitmq,github,gitlab,bitbucket,idea,vscode,bash,postman,?theme=light" />
+    <img src="https://skillicons.dev/icons?i=git,docker,jenkins,aws,rabbitmq,github,gitlab,bitbucket,idea,vscode,bash,postman,?theme=dark" />
   </a>
 </p>
 
 <h3>OS</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=apple,linux,ubuntu,?theme=light" />
+    <img src="https://skillicons.dev/icons?i=apple,linux,ubuntu,?theme=dark" />
   </a>
 </p>
 
